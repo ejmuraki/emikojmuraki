@@ -1,6 +1,6 @@
 ---
 title: "Emiko J Muraki"
-image: "tobi.jpg"
+image: "EmikoHeadshot.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
